@@ -251,9 +251,33 @@ image::/assets/image7.png[700,700]
 
 === Triggering Suggestions
 
+image::/assets/image8.png[]
 
 
-== Slide 6: Q & A
-=== Questions?
-[.text-center]
-Thank you! Any questions?
+== Accepting Suggestions
+
+[.text-left]
+* Accept: Once you have a desired suggestion displayed, simply press Tab to integrate it into your code.​
+
+* Reject: Press Esc to discard the current suggestion, either from the main panel or inline menu.​
+
+
+== Adjusting Settings
+
+[.text-left]
+
+* Open Settings: Press Ctrl + , (Windows) or Cmd + , (Mac) to open the Copilot settings panel.​
+* Key Settings:​
+** Enable/Disable Copilot: Toggle the switch under "Enable Copilot" to turn it on or off for the current editor session.​
+** Choose Suggestion Model: Change the model used to generate suggestions with Ctrl + Alt + Up/Down (Windows) or Cmd + Option + Up/Down (Mac). This helps refine suggestions to your style.​
+** Adjust Duplicate Detection: Enable/disable duplicate detection to control whether Copilot avoids suggestions matching publicly available code.​
+** Explore Other Settings: Discover more options like keyboard shortcut customization, telemetry data control, and more.
+
+== Customize Experience​
+
+[.text-left]
+
+* Adjust settings for language preferences, suggestion behaviour, and more.​
+* Personalize Copilot experience.​
+
+
