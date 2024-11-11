@@ -179,6 +179,79 @@ image::/assets/image4.png[]
 
 image::/assets/image5.png[]
 
+
+== Components of Github Copilot
+* User Interface​
+* Prompt Processor​
+* LLM that includes​
+** Code Generation model​
+** NPL model​
+** Domain Specific Model​
+* Code Safety and Security Checks​
+* Code Adaptation and Ranking​
+* User Feedback and Learning​
+
+== Code generating using Github Copilot
+[.text-left]
+
+* Completing Code: Copilot can intelligently complete code snippets based on your current context, including variable names, function calls, and data types.​
+
+* Generating Entire Blocks: While not always perfect, Copilot can attempt to generate larger code blocks like functions, classes, or even UI elements based on your prompts.​
+
+* Different Languages: It currently supports various popular languages like Python, JavaScript, Java, TypeScript, and C++.​
+
+
+== NLP and Github Copilot
+
+[.text-left]
+
+* Understanding Intent: Copilot can process your natural language prompts, even if they aren't perfectly written code, and try to understand what you're trying to achieve.​
+* Context Awareness: It takes into account the surrounding code and project structure to generate more relevant and useful suggestions.​
+
+== Other Interesting Capabilities
+
+[.text-left]
+
+* Documentation Generation: Copilot can help generate docstrings and comments based on the code you're writing.​
+* Testing Suggestions: Some integrations offer basic unit test generation along with code suggestions.​
+* Integration with Other Tools: It can work with various code editors and IDEs, and some extensions offer additional functionalities.​
+
+== Limitations 
+[.text-left]
+
+* Not a Magic Wand
+* Learning Curve
+* Potential Biases
+
+NOTE: Not a Magic Wand: Copilot doesn't write perfect code by itself. It requires clear and concise prompts, and the generated code should always be reviewed and tested thoroughly.​
+
+NOTE: Learning Curve: While user-friendly, it has a learning curve to effectively communicate your desired outcomes through prompts.​
+
+NOTE: Potential Biases: Like any ML model, it can learn and reflect biases present in its training data. Be mindful of potential biases and evaluate suggestions critically.​
+
+== Lesson 3 Exploring Github Copilot
+
+== Setting up Github Copilot
+
+[.text-left]
+* Subscribe Plan of your choice
+* Select IDE of Your Choice
+* Install Plugins/Extensions
+* Login to Github Account Powered by Copilot Subscription
+
+[.text-center]
+
+
+== Explore KeyBoard Shortcuts 
+
+[.text-left]
+* Essential keyboard shortcuts for 
+** Triggering suggestions
+** Accepting/rejecting
+** Navigating
+
+[.text-center]
+
 === Key Takeaways
 * Key takeaway 1
 * Key takeaway 2
