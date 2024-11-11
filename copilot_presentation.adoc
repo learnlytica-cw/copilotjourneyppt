@@ -340,21 +340,34 @@ image::/assets/image11.png[]
 * Code Snippet magic​
 * Fine Tuning Control
 
-== 
+==  Prompt Engineering Fundamentals 
+
+Objective
+
+* Prompt Engineering Introduction
+* Key Elements of Prompts
+* Prompting Techniques
+** Zero Shot
+** One-Shot
+** Few Shot
+** Chain of Thoughts
+
+
+== Prompt Engineering
 
 [.text-center]
 
 image::/assets/image12.png[]
 
 
-== 
+== Key Elements of Prompt
 
 [.text-center]
 
 image::/assets/image12.png[]
 
 
-== 
+==  Prommpting Techniques
 
 [.text-center]
 
@@ -362,7 +375,7 @@ image::/assets/image13.png[]
 
 
 
-== 
+== Zero Shot
 
 [.text-center]
 
@@ -370,14 +383,14 @@ image::/assets/image14.png[]
 
 
 
-== 
+== One Shot
 
 [.text-center]
 
 image::/assets/image15.png[]
 
 
-== 
+==  Few Shot
 
 [.text-center]
 
@@ -385,7 +398,7 @@ image::/assets/image16.png[]
 
 
 
-== 
+==  Chain of Thought
 
 [.text-center]
 
@@ -393,7 +406,7 @@ image::/assets/image17.png[]
 
 
 
-== 
+==  Prompt Principles
 
 [.text-center]
 
@@ -401,11 +414,47 @@ image::/assets/image18.png[]
 
 
 
-== 
+==  How Github Copilot Processes Prompt
 
 [.text-center]
 
 image::/assets/image19.png[]
+
+==  Best Practises to Follow
+
+[.text-left]
+
+* Provide enough clarity
+* Provide enough context with details
+* Provide examples for learning
+* Assert and iterate
+
+NOTE: Tne of the keys to unlocking GitHub Copilot's full potential is the practice of iteration. Your first prompt might not always yield the perfect code, and that's perfectly okay. If the first output isn't quite what you're looking for, treat it as a step in a dialogue. Erase the suggested code, enrich your initial comment with added details and examples, and prompt Copilot again.
+
+
+== Zero Shot Example
+[.text-left]
+
+* GitHub Copilot generates code without any specific examples, relying solely on its foundational training. 
+* For instance, suppose you want to create a function to convert temperatures between Celsius and Fahrenheit. 
+* You can start by only writing a comment describing what you want, and Copilot might be able to generate the code for you, based on its previous training, without any other examples.
+
+
+== One Shot Example
+[.text-left]
+
+* With this approach, a single example is given, aiding the model in generating a more context-aware response. 
+* Building upon the previous zero-shot example, you might provide an example of a temperature conversion function and then ask Copilot to create another similar function
+
+==  Few Shot Example
+[.text-left]
+
+* Copilot is presented with several examples, which strike a balance between zero-shot unpredictability and the precision of fine-tuning.
+* Let's say you want to generate code that sends you a greeting depending on the time of the day as shown in exhibit.
+
+
+
+
 
 
 
