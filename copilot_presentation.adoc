@@ -1,4 +1,4 @@
-=  GitGub CoPilot Fundamentals
+=  Github CoPilot Fundamentals
 Author Name
 :icons: font
 :revealjs_theme: white
