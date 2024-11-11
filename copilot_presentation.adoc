@@ -439,6 +439,7 @@ NOTE: Tne of the keys to unlocking GitHub Copilot's full potential is the practi
 * For instance, suppose you want to create a function to convert temperatures between Celsius and Fahrenheit. 
 * You can start by only writing a comment describing what you want, and Copilot might be able to generate the code for you, based on its previous training, without any other examples.
 
+image::/assets/image20.png[]
 
 == One Shot Example
 [.text-left]
@@ -446,13 +447,15 @@ NOTE: Tne of the keys to unlocking GitHub Copilot's full potential is the practi
 * With this approach, a single example is given, aiding the model in generating a more context-aware response. 
 * Building upon the previous zero-shot example, you might provide an example of a temperature conversion function and then ask Copilot to create another similar function
 
+image::/assets/image21.png[]
+
 ==  Few Shot Example
 [.text-left]
 
 * Copilot is presented with several examples, which strike a balance between zero-shot unpredictability and the precision of fine-tuning.
 * Let's say you want to generate code that sends you a greeting depending on the time of the day as shown in exhibit.
 
-
+image::/assets/image22.png[]
 
 
 
