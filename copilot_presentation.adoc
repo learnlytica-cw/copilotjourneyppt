@@ -340,7 +340,7 @@ image::/assets/image11.png[]
 * Code Snippet magic​
 * Fine Tuning Control
 
-==  Prompt Engineering Fundamentals 
+== Lesson 5  Prompt Engineering Fundamentals 
 
 Objective
 
@@ -456,6 +456,16 @@ image::/assets/image21.png[700,700]
 * Let's say you want to generate code that sends you a greeting depending on the time of the day as shown in exhibit.
 
 image::/assets/image22.png[700,700]
+
+== SUmmary
+
+* Prompt Principles
+* Best Practises to follow
+* Prompt Process Flow in GitHub Copilot
+* Example: Zero Shot
+* Example: One Shot
+* Example: Few Shot
+
 
 
 
