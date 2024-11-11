@@ -296,6 +296,10 @@ Objective:
 
 == Completions
 
+[.text-center]
+
+image::/assets/image10.png[500,500]
+
 
 
 
