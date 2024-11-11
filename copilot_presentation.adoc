@@ -1,4 +1,4 @@
-= GitGub CoPilot Fundamentals
+=  GitGub CoPilot Fundamentals
 Author Name
 :icons: font
 :revealjs_theme: white
@@ -9,10 +9,9 @@ Author Name
 :revealjs_width: 1280
 :revealjs_height: 720
 
-== Generative AI amd LLMs
+== Lesson 1 Generative AI amd LLMs
 [.text-center]
-== Welcome to the Presentation
-This presentation covers the following topics:
+
 
 * Power of Generative AI​
 * Technical Foundation of Generative AI​
@@ -138,6 +137,36 @@ NOTE: Cybersecurity: The task of protecting data and systems from malicious atta
 == ChatGPT vs GitHub CoPilot
 
 [.text-center]
+
+image::/assets/image2.png[]
+
+==  Lesson:2 Github Copilot
+
+== Lesson Objective
+
+* Define GitHub Copilot​
+* Explore Common Features​
+* GitHub CoPilot Subscription Types​
+* How CoPilot Works​
+
+== What is Github Copilot
+
+* GitHub Copilot is the world's first at-scale AI developer tool that can help write code faster with less work. ​
+* GitHub Copilot draws context from comments and code to suggest individual lines and whole functions instantly.​
+* Research finds GitHub Copilot helps developers code faster, focus on solving bigger problems, stay in the flow longer, and feel more fulfilled with their work.​
+* Powered by OpenAI Codex, GitHub Copilot's generative pretrained language model is created by OpenAI.​
+* An extension is available for Visual Studio Code, Visual Studio, Neovim, and the JetBrains suite of integrated development environments (IDEs).​ ​
+
+== Key Features of Github Copilot
+
+* ChatGPT-like experience in editor​
+* Copilot for Pull Requests​
+* AI Generated answers about documentations​
+* Copilot for the command line interface (CLI)​
+
+
+== GitHub Copilot Subscriptions
+
 
 
 
