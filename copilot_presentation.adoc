@@ -307,4 +307,36 @@ image::/assets/image10.png[]
 image::/assets/image11.png[]
 
 
+== Comments: Guiding Suggestions
+
+* Inline comments to provide context and guide Copilot's suggestions.​
+* Try different wording and approaches in comments to see how Copilot responds.​
+* Iterative nature of communication with Copilot​
+* Ambiguous comments might lead to unexpected suggestions.​
+* Writing clear, concise comments that accurately reflect the desired outcome.​
+
+
+== Completions for Documentation
+
+* Co-pilot for generating docstrings or comments to explain code functionality.​
+* Derive value of maintaining well-documented code.
+* Helps generate standard Language Specific Documentations
+
+= Tuning Copilot Suggestions
+
+* Generate specific code snippets based on prompts or examples​
+* Create common data structures, loops, or conditional statements.
+* Provide arguments or adjust parameters within suggested snippets.​
+* Helps tailor snippets to their specific needs.​
+
+
+== Summary
+
+* Variable Names and Structure​
+* Context-Aware Completion​
+* Accepting Suggestions​
+* Power of Comments​
+* Completion for Documentation​
+* Code Snippet magic​
+* Fine Tuning Control
 
