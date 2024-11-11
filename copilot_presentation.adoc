@@ -175,6 +175,9 @@ image::/assets/image4.png[]
 
 == How Copilot Works
 
+[.text-center]
+
+image::/assets/image5.png[]
 
 === Key Takeaways
 * Key takeaway 1
