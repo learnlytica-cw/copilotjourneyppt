@@ -1,4 +1,4 @@
-=  Github CoPilot Fundamentals
+=  Github Copilot Fundamentals
 Author Name
 :icons: font
 :revealjs_theme: white
@@ -469,7 +469,7 @@ image::/assets/image22.png[700,700]
 
 
 == Lesson:5 Github Copilot Language Support 
-
+[.text-left]
 Objective
 
 * Python-specifice Features
@@ -480,7 +480,7 @@ Objective
 
 
 == Python Specific Features
-
+[.text-left]
 * Generate Pythonic code structures like list comprehensions or lambda functions.
 * Helps context-aware suggestions for libraries like NumPy or Pandas.
 * using Copilot to generate common data analysis code blocks in Python.
@@ -489,7 +489,7 @@ Objective
 
 
 == JavaScript and TypeScript
-
+[.text-left]
 * Helps code completions specific to JavaScript frameworks like React or Angular.
 * Helps Highlight TypeScript-specific features like type inference and error checking.
 * Can use  Co-pilot to write HTML, CSS, and JavaScript code faster and more efficiently.
@@ -497,7 +497,7 @@ Objective
 * Co-pilot can be a potential  tool for rapid prototyping and streamlined development.
 
 == Adding Value to Existing Code
-
+[.text-left]
 * Copilot can assist in writing secure code by suggesting secure practices and avoiding common vulnerabilities.
 * understand security principles and use the tool responsibly.
 * Use Copilot to generate code that adheres to accessibility best practices.
@@ -506,7 +506,7 @@ Objective
 
 
 == Summary
-
+[.text-left]
 * Python-specifice Features
 * JavaScript and Typescript
 * Secure Code with Copilot
@@ -514,7 +514,7 @@ Objective
 * Game Development with Copilot
 
 == Lesson 6 GitHub Copilot Patterns 
-
+[.text-left]
 * What are Patterns
 * GitHub COpilot Patterns
 * Design patterns at Work
@@ -524,14 +524,14 @@ Objective
 
 
 == What are Patterns
-
+[.text-left]
 * Pattern is a way of describing repeatable solutions to problems within a specific context. 
 * Patterns provide ideas for how developers and teams can use AI to achieve rapid product development.
 * Patterns are tried and true solutions to common problems and scenarios you might encounter when developing with GitHub Copilot.
 
 
 == Github Copilot Pattern Categories
-
+[.text-left]
 * Level:0 Pattern Ideas
 * Level:1 Early Stage Patterns
 * Level:2 Practically viable Patterns
@@ -541,7 +541,7 @@ NOTE: Patterns are still maturing
 
 
 == pattern At Work
-
+[.text-left]
 * AI readable Naming Convention
 * Consistent Coding Style
 * Derive High-Level Architecture First
@@ -552,9 +552,25 @@ NOTE: Patterns are still maturing
 
 == Practically Viable Patterns
 
+[.text-center]
+
+image::/assets/image23.png[]
 
 == Best Practises
 
+[.text-center]
+
+image::/assets/image24.png[]
+
+
+== Summary
+
+* What are Patterns
+* GitHub Copilot Pattern Categories
+* Design Pattern at Work
+* Practically Viable Patterns
+* Pattern for Test Engineers
+* Best Practices
 
 
 
