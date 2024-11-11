@@ -249,10 +249,9 @@ image::/assets/image6.png[]
 
 image::/assets/image7.png[700,700]
 
-=== Key Takeaways
-* Key takeaway 1
-* Key takeaway 2
-* Key takeaway 3
+=== Triggering Suggestions
+
+
 
 == Slide 6: Q & A
 === Questions?
