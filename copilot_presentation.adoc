@@ -280,7 +280,7 @@ image::/assets/image8.png[]
 * Adjust settings for language preferences, suggestion behaviour, and more.​
 * Personalize Copilot experience.​
 
-image::/assets/image9.png[700,700]
+image::/assets/image9.png[500,500]
 
 
 
