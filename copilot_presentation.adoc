@@ -173,7 +173,9 @@ image::/assets/image3.png[]
 
 image::/assets/image4.png[]
 
-== Slide 5: Summary
+== How Copilot Works
+
+
 === Key Takeaways
 * Key takeaway 1
 * Key takeaway 2
