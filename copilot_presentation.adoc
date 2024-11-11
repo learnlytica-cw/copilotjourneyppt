@@ -241,16 +241,13 @@ NOTE: Potential Biases: Like any ML model, it can learn and reflect biases prese
 
 [.text-center]
 
+image::/assets/image6.png[]
 
 == Explore KeyBoard Shortcuts 
 
-[.text-left]
-* Essential keyboard shortcuts for 
-** Triggering suggestions
-** Accepting/rejecting
-** Navigating
-
 [.text-center]
+
+image::/assets/image7.png[700,700]
 
 === Key Takeaways
 * Key takeaway 1
