@@ -282,6 +282,20 @@ image::/assets/image8.png[]
 
 image::/assets/image9.png[500,500]
 
+== Lesson 4 Mastering  Completion​
+
+Objective:
+
+* Variable Names and Structure​
+* Context-Aware Completion​
+* Accepting Suggestions​
+* Power of Comments​
+* Completion for Documentation​
+* Code Snippet magic​
+* Fine Tuning Control​
+
+== Completions
+
 
 
 
