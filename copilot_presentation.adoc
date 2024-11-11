@@ -9,7 +9,7 @@ Author Name
 :revealjs_width: 1280
 :revealjs_height: 720
 
-== Slide 1: Generative AI amd LLMs
+== Generative AI amd LLMs
 [.text-center]
 == Welcome to the Presentation
 This presentation covers the following topics:
@@ -24,7 +24,7 @@ This presentation covers the following topics:
 
 
 
-== Slide 2: Power of Generative AI
+== Power of Generative AI
 === Overview 
 [.text-left]
 
@@ -34,7 +34,7 @@ This presentation covers the following topics:
 
 
 
-== Slide 3: Technical Foundation of GenAI
+== Technical Foundation of GenAI
 
 [.text-left]
 
@@ -48,7 +48,7 @@ NOTE: Self-supervised pretraining: The process of training a model on a large am
 
 NOTE: Generative modeling methods: The techniques and algorithms that enable a model to learn the probability distribution of the data and sample new data from it.​
 
-== Slide 4: Opportunities Created by GenAI
+== Opportunities Created by GenAI
 
 [.text-left]
 
@@ -62,7 +62,7 @@ NOTE: Improving efficiency and productivity: Generative AI can automate tedious 
 
 NOTE: Increasing accessibility and diversity: Generative AI can make content and services more accessible and inclusive by generating personalized and customized content that meets the needs and preferences of different users and audiences.​
 
-== Slide 5: Challenges of GenAI
+== Challenges of GenAI
 
 [.text-left]
 
@@ -74,19 +74,26 @@ NOTE: Ensuring quality and reliability: Generative AI can produce inaccurate or 
 
 NOTE: Maintaining security and privacy: Generative AI can pose risks to the security and privacy of data and systems by enabling malicious actors to generate fake or spoofed content that can deceive or manipulate users or bypass authentication mechanisms. Examples of security and privacy issues include identity theft, fraud, phishing, deepfakes, cyberattacks, and data breaches.​
 
-NOTE:Regulating ethics and responsibility: Generative AI can raise ethical and social questions about the ownership, accountability, transparency, explainable, fairness, trustworthiness, and impact of the generated content on individuals and society.​
+NOTE: Regulating ethics and responsibility: Generative AI can raise ethical and social questions about the ownership, accountability, transparency, explainable, fairness, trustworthiness, and impact of the generated content on individuals and society.​
 
-== Slide 5: Key Concerns of GenAI
-
-image::use_cases_img.png[Topic Image, width=50%]
+== Key Concerns of GenAI
 
 [.text-left]
 
-* High energy usage: An analysis has shown that training an LLM model with 200 billion parameters produces approximately 75,000 kg of CO2 emissions​
-* Model bias: Presence of systematic and unfair inaccuracies or prejudices in the predictions or decisions made by a machine learning model.​
-* Toxic comments: A toxic comment is a text-based input, usually in the form of a comment, message, or text snippet, that contains harmful, offensive, or inappropriate content.​
-* Hallucination: Hallucination refers to Generative AI responses that are produced when the search context changes, or a response is not supported by the underlying data. Hallucination results in query responses that are illogical and deceptive​
-* Conversational AI leakage: Conversational AI leakage occurs when sensitive data is input into a LLM and is unintentionally exposed​
+* High energy usage
+* Model bias 
+* Toxic comments
+* Hallucination
+* Conversational AI leakage
+
+NOTE:  An analysis has shown that training an LLM model with 200 billion parameters produces approximately 75,000 kg of CO2 emissions​
+
+NOTE: Presence of systematic and unfair inaccuracies or prejudices in the predictions or decisions made by a machine learning model.​
+
+NOTE: Hallucination refers to Generative AI responses that are produced when the search context changes, or a response is not supported by the underlying data. Hallucination results in query responses that are illogical and deceptive​.
+
+NOTE:  Conversational AI leakage occurs when sensitive data is input into a LLM and is unintentionally exposed​
+
 
 == Generative AI and LLMs
 
@@ -99,20 +106,41 @@ image::use_cases_img.png[Topic Image, width=50%]
 * Both Generative AI and LLM models extract value from enormous data sets and provide straightforward learning in an accessible manne​
 
 
-  == Pretrained LLMS
+== Pretrained LLMS
 
-  [.text-left]
+[.text-left]
 
 * ChatGPT, by OpenAI, can generate an answer to almost any question it’s asked and is free to use. ChatGPT using the GPT-4 LLM, released in 2023, is the latest version as of this writing and is unique in that it is multimodal, which can process a combination of image and text inputs to produce text outputs.​
 * DALL-E2, developed by OpenAI, creates AI-generated images that are realistic and art from descriptive natural language. DALL-E2 can merge styles and concepts in new creative ways.​
 * LLAMA 2, by Meta, is open-source LLM series based on up to 70 billion parameters and trained on 2 trillion tokens. Smaller versions exist that can be fine-tuning for a variety of tasks. This model is open source and available for research and commercial purposes.​
-* BLOOM, by BigScience, is an open-source multilingual large language model, which can generate text in 46 languages and 13 programming languages. Soon, an inference API will be released.​
-* LaMDA 2, language model for dialogue applications by Google, is an advanced AI-driven chatbot with conversational skills trained on dialogue and is built on a transformer neural network architecture.​
-* MPT-7B-Instruct is built on a modified decoder-only transformer architecture and has ~ 7 billion parameters trained on 1 trillion tokens from a variety of text datasets. It is open-source, which can be used commercially and is a model for short-form instruction following.​
 
 == LLMs Use-Cases
 
-  
+[.text-center]
+
+
+image::/assets/image1.png[]
+
+
+== Some Common GenAI Applications
+
+[.text-left]
+* Content Generation and Editing
+* Application Development
+* Cybersecurity
+
+NOTE:  Content generation and editing: These models can generate or modify multimedia content that is realistic, diverse, and creative. Examples of content generation and editing applications include art, music, 3D models, audio, video, and synthetic data.​
+
+NOTE: Application development: Generative AI can support code development and deployment. Example uses in application development include code generation, code analysis, code completion, and code testing.​
+
+NOTE: Cybersecurity: The task of protecting data and systems from malicious attacks or unauthorized access can be accomplished using Generative AI. Examples of cybersecurity applications include anomaly detection, malware detection, intrusion detection, and encryption.​
+
+== ChatGPT vs GitHub CoPilot
+
+[.text-center]
+
+
+
 == Slide 5: Summary
 === Key Takeaways
 * Key takeaway 1
