@@ -298,8 +298,13 @@ Objective:
 
 [.text-center]
 
-image::/assets/image10.png[500,500]
+image::/assets/image10.png[]
 
+
+== Tab Key 
+
+
+image::/assets/image11.png[]
 
 
 
