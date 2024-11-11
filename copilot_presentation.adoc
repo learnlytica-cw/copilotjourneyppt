@@ -468,6 +468,94 @@ image::/assets/image22.png[700,700]
 
 
 
+== Lesson:5 Github Copilot Language Support 
+
+Objective
+
+* Python-specifice Features
+* JavaScript and Typescript
+* Secure Code with Copilot
+* Adding Accessibility
+* Game Development with Copilot
+
+
+== Python Specific Features
+
+* Generate Pythonic code structures like list comprehensions or lambda functions.
+* Helps context-aware suggestions for libraries like NumPy or Pandas.
+* using Copilot to generate common data analysis code blocks in Python.
+* Emphasize how copilot helps   efficiency gain and focus on more complex tasks
+* Copilot suggests code snippets for common machine learning algorithms or data manipulations.
+
+
+== JavaScript and TypeScript
+
+* Helps code completions specific to JavaScript frameworks like React or Angular.
+* Helps Highlight TypeScript-specific features like type inference and error checking.
+* Can use  Co-pilot to write HTML, CSS, and JavaScript code faster and more efficiently.
+* Use Co-pilot to generate UI elements, handle user interactions, and connect to APIs in a mobile app development .
+* Co-pilot can be a potential  tool for rapid prototyping and streamlined development.
+
+== Adding Value to Existing Code
+
+* Copilot can assist in writing secure code by suggesting secure practices and avoiding common vulnerabilities.
+* understand security principles and use the tool responsibly.
+* Use Copilot to generate code that adheres to accessibility best practices.
+* Copilot can assist in creating game mechanics, generating random events, and implementing AI behavior.
+* Great tool for faster development and more creativity in game design
+
+
+== Summary
+
+* Python-specifice Features
+* JavaScript and Typescript
+* Secure Code with Copilot
+* Adding Accessibility
+* Game Development with Copilot
+
+== Lesson 6 GitHub Copilot Patterns 
+
+* What are Patterns
+* GitHub COpilot Patterns
+* Design patterns at Work
+* Practical Viable patterns
+* Patterns for Test Engineers
+* Best Practices
+
+
+== What are Patterns
+
+* Pattern is a way of describing repeatable solutions to problems within a specific context. 
+* Patterns provide ideas for how developers and teams can use AI to achieve rapid product development.
+* Patterns are tried and true solutions to common problems and scenarios you might encounter when developing with GitHub Copilot.
+
+
+== Github Copilot Pattern Categories
+
+* Level:0 Pattern Ideas
+* Level:1 Early Stage Patterns
+* Level:2 Practically viable Patterns
+* Level:3 Mature Patterns(Best Practices)
+
+NOTE: Patterns are still maturing
+
+
+== pattern At Work
+
+* AI readable Naming Convention
+* Consistent Coding Style
+* Derive High-Level Architecture First
+* Work in small chunks
+* Context-less Architecture
+* Eliminate OSS Dependency
+
+
+== Practically Viable Patterns
+
+
+== Best Practises
+
+
 
 
 
