@@ -457,7 +457,7 @@ image::/assets/image21.png[700,700]
 
 image::/assets/image22.png[700,700]
 
-== SUmmary
+== Summary
 
 * Prompt Principles
 * Best Practises to follow
